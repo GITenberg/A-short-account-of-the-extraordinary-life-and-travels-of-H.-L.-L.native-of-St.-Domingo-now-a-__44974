@@ -1,0 +1,30 @@
+_repo: A-short-account-of-the-extraordinary-life-and-travels-of-H.-L.-L.native-of-St.-Domingo-now-a-__44974
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44974-h/images/cover.jpg
+creator:
+  author:
+    agent_name: H. L. L.
+    alias: L., H. L.
+    birthdate: 1783
+    gutenberg_agent_id: '43014'
+    url: http://www.gutenberg.org/2009/agents/43014
+description: ''
+gutenberg_issued: '2014-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1900'
+- !lcsh 'Haiti -- History -- Revolution, 1791-1804 -- Personal narratives'
+- !lcsh 'H. L. L., 1783-1803?'
+title: "A short account of the extraordinary life and travels of H. L. L.----\r\n\
+  native of St. Domingo, now a prisoner of war at Ashbourn, in Derbyshire, shewing\
+  \ the remarkable steps of Divine providence towards him, and the means of his conversion\
+  \ to God"
+url: http://www.gutenberg.org/ebooks/44974
